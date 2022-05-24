@@ -3,6 +3,9 @@
 Helping code for rest of repo.
 """
 
+"""
+Process index and file, save the best model
+"""
 import pickle
 import os
 import shutil
